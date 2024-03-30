@@ -1,3 +1,4 @@
-const test = 's'
+const express = require("express")
+const app = express();
 
-console.log(20)
+app.listen(5000);
